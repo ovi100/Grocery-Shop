@@ -1,0 +1,521 @@
+
+@media screen and (max-width: 1440px) {
+
+  .sidenav ul li {
+    padding: 16.3px 35px;
+  }
+
+}
+
+@media screen and (max-width: 1366px) {
+
+  .sidenav ul li {
+    padding: 14.6px 35px;
+  }
+
+}
+
+@media screen and (max-width: 1024px) {
+
+  .sp-offer a{
+    padding: 9px 20px;
+  }
+
+  .search-form {
+    margin-left: 40px; 
+  }
+
+  .search-form .navbar-form {
+      padding: 0 8px; 
+    }
+
+  .search-form .form-control {
+    padding: 9px 50px;
+  }
+
+  .fn-button {
+    margin-left: 30px; 
+  }
+
+  .user-option{
+    margin-left: 40px;
+  }
+
+  .contact-box a {
+    padding: 9px 25px;
+  }
+
+  /* CSS For Normal Navbar */
+
+  .left-nav-list{
+    margin-left: 5px;
+  }
+
+  .left-nav-list ul li a {
+    font-size: 14px;
+  }
+
+  .right-nav-list{
+    margin-left: 4px;
+  }
+
+  .right-nav-list ul li a {
+    font-size: 14px;
+  }
+
+  .sidenav ul li {
+    padding: 8.45px 35px;
+  }
+
+  .slider .carousel-inner>.item>img{
+    height: 342px;
+  }
+
+}
+
+
+@media screen and (max-width: 992px) {}
+
+
+@media screen and (max-width: 768px) {
+
+  .sp-offer{
+    margin-bottom: 1px;
+  }
+
+  .sp-offer a{
+    padding: 9px 15px;
+  }
+
+  .search-form {
+    float: none;
+    display: block;
+    width: 104%;
+    margin-left: -8px; 
+  }
+
+  .search-form .navbar-form {
+      padding: 0 8px; 
+    }
+
+  .search-form .form-control {
+    padding: 9px 20px;
+  }
+
+  .fn-button {
+    margin-left: 0px; 
+  }
+
+  .user-option{
+    margin-left: 0px;
+  }
+
+  .contact-box a {
+    padding: 9px 7px;
+  }
+
+  /* CSS For Normal Navbar */
+
+  .left-nav-list {
+    margin-top: 25px;
+    margin-left: 75px;
+  }
+
+  .right-nav-list {
+    margin-top: 20px;
+    margin-left: 75px;
+  }
+
+  /* CSS For SideNav and Slider */
+
+  .sidenav{
+    width: 25%;
+  }
+
+  .sidenav  ul li a{
+    font-size: 13px;
+  }
+
+  .slider{
+    width: 75%;
+  }
+
+  /* CSS For Special Offer */
+
+  .pill-menu {
+    margin-left: 30%;
+  }
+
+  .product .product-photo a {
+    top: -5px;
+  }
+
+  .product .product-pndr {
+    padding: 0;
+    text-align: center;
+  }
+
+  .product .product-pndr span:nth-child(2) {
+    float: none;
+    display: block;
+    margin-top: 5px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+
+  .sp-offer{
+    margin-bottom: 1px;
+  }
+
+  .sp-offer a{
+    padding: 9px 15px;
+  }
+
+  .search-form {
+    float: left;
+    width: 34%;
+    margin-left: 0;
+  }
+
+  .search-form .navbar-form {
+      padding: 0 8px; 
+    }
+
+  .search-form .form-control {
+    padding: 9px 20px;
+  }
+
+  .fn-button {
+    margin-left: 0px; 
+  }
+
+  .user-option{
+    margin-left: 0px;
+  }
+
+  .contact-box a {
+    padding: 9px 7px;
+  }
+
+  /* CSS For Normal Navbar */
+
+  .left-nav-list {
+    margin-top: 25px;
+    margin-left: 75px;
+  }
+
+  .right-nav-list {
+    margin-top: 20px;
+    margin-left: 75px;
+  }
+
+  /* CSS For SideNav and Slider */
+
+  .sidenav{
+    border: 0;
+    display: block;
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+
+  .slider{
+    width: 100%;
+  }
+
+  /* CSS For Special Offer */
+
+  .pill-menu {
+    margin-left: 30%;
+  }
+
+  .product .product-photo a {
+    top: -5px;
+  }
+
+  .product .product-pndr {
+    padding: 0;
+    text-align: center;
+  }
+
+  .product .product-pndr span:nth-child(2) {
+    float: none;
+    display: block;
+    margin-top: 5px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+
+  .sp-offer{
+    width: 100%;
+    text-align: center;
+  }
+
+  .search-form {
+    margin-bottom: 2px;
+  }
+
+  .user-option {
+    margin-left: 55px;
+  }
+
+  .contact-box a {
+    padding: 9px 25px;
+  }
+
+  #normal-nav{
+    margin-top:135px;
+  }
+
+  .logo{
+    float: none;
+    text-align: center;
+  }
+
+  .left-nav-list{
+    display: block;
+    margin-top: 10px;
+    margin-left: 30px;
+  }
+
+  .left-nav-list ul li {
+    margin-left: 15px;
+  }
+
+  .right-nav-list{
+    margin-top: 5px;
+    margin-left: 40px;
+  }
+
+  .pill-menu {
+    margin-left: 15%;
+  }
+}
+
+@media screen and (max-width: 464px) {
+
+  .sp-offer{
+    width: 100%;
+    text-align: center;
+  }
+
+  .search-form {
+    margin-bottom: 2px;
+  }
+
+  .user-option {
+    margin-left: 55px;
+  }
+
+  .contact-box a {
+    padding: 9px 25px;
+  }
+
+  #normal-nav{
+    margin-top:135px;
+  }
+
+  .logo{
+    float: none;
+    text-align: center;
+  }
+
+  .left-nav-list{
+    display: block;
+    margin-top: 10px;
+    margin-left: 20px;
+  }
+
+  .left-nav-list ul li {
+    margin-left: 15px;
+  }
+
+  .right-nav-list{
+    margin-top: 5px;
+    margin-left: 30px;
+  }
+
+  .pill-menu {
+    margin-left: 15%;
+  }
+}
+
+@media screen and (max-width: 425px) {
+
+  .search-form {
+    float: none;
+    display: inline-block;
+    width: 104%;
+  }
+
+  #normal-nav{
+    margin-top:135px;
+  }
+
+  .logo{
+    float: none;
+    text-align: center;
+  }
+
+  .left-nav-list{
+    display: block;
+    margin-top: 10px;
+    margin-left: 0;
+  }
+
+  .left-nav-list ul li {
+    margin-left: 15px;
+  }
+
+  .right-nav-list{
+    margin-top: 5px;
+    margin-left: 15px;
+  }
+
+  /* CSS For SideNav and Slider */
+
+  .sidenav{
+    border: 0;
+    display: block;
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+
+  .slider{
+    width: 100%;
+  }
+
+  .slider .carousel-inner>.item>img{
+    height: auto;
+  }
+
+
+  .pill-menu {
+    margin-left: 13%;
+  }
+
+  .pddh-photo{
+    margin: 0 auto;
+    margin-top: 30px;
+  }
+
+  .newsletter h4 {
+    text-align: center;
+  }
+
+  .footer .logo-text p{
+    width: 90%;
+    text-align: justify;
+  }
+
+  .footer .address{
+    line-height: 25px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+
+  .search-form {
+    width: 105%;
+  }
+  .user-option {
+    margin-left: 15px;
+  }
+
+  #normal-nav{
+    margin-top:140px;
+  }
+
+  .logo{
+    float: none;
+    text-align: center;
+  }
+
+  .left-nav-list{
+    display: block;
+    margin-top: 10px;
+    margin-left: 0;
+  }
+
+  .left-nav-list ul li {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .right-nav-list{
+    margin-top: 5px;
+    margin-left: 0;
+  }
+
+  .right-nav-list ul li {
+    margin-left: 15px;
+  }
+
+  .pill-menu {
+    margin-left: 8%;
+  }
+}
+
+
+@media screen and (max-width: 360px) {
+
+  .user-option {
+    margin-left: 20px;
+  }
+
+  .contact-box a {
+    padding: 9px 20px;
+  }
+
+  .left-nav-list ul li {
+    margin-left: 9px;
+    margin-right: 9px;
+  }
+
+  .right-nav-list ul li {
+    margin-left: 9px;
+  }
+
+  .pill-menu {
+    margin-left: 6%;
+  }
+}
+
+@media screen and (width: 320px) {
+
+  .user-option {
+    margin-left: 0px;
+  }
+
+  .contact-box a {
+    padding: 9px 14px;
+  }
+
+  .left-nav-list ul li {
+    margin-left: 4px;
+    margin-right: 5px;
+  }
+
+  .right-nav-list{
+    margin-top: 5px;
+    margin-left: 0;
+  }
+
+  .right-nav-list ul li {
+    margin-left: 5px;
+  }
+
+  .right-nav-list ul li a {
+    font-size: 12px;
+  }
+
+  .pill-menu {
+    margin-left: 1%;
+  }
+}
+
+
+/*@media screen and (max-width: 480px) {}*/
